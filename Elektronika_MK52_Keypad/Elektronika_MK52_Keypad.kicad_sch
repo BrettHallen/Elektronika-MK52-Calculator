@@ -2610,7 +2610,7 @@
 				)
 			)
 		)
-		(property "Value" "*"
+		(property "Value" "x"
 			(at 125.73 100.33 0)
 			(effects
 				(font
