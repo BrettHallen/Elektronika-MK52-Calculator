@@ -1,5 +1,5 @@
 ﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
-128.63,-83.04,-90.0,top,J1,,,PinHeader_1x14_P1.00mm_Vertical,Keypad PCB,tht
+116.0,-83.0,-90.0,top,J1,,,PinHeader_1x14_P1.00mm_Vertical,Keypad PCB,tht
 78.0,-52.0,0.0,top,SW1,,,MSLPT5252AL4TR,F,smt
 90.5,-64.5,0.0,top,SW10,,,MSLPT5252AL4TR,ШГ←,smt
 103.0,-64.5,0.0,top,SW11,,,MSLPT5252AL4TR,Х←П,smt
@@ -9,7 +9,7 @@
 153.0,-64.5,0.0,top,SW15,,,MSLPT5252AL4TR,+,smt
 165.5,-64.5,0.0,top,SW16,,,MSLPT5252AL4TR,x,smt
 78.0,-77.0,0.0,top,SW17,,,MSLPT5252AL4TR,↓↑,smt
-90.5,-77.0,0.0,top,SW18,,,MSLPT5252AL4TR,B/O,smt
+90.5,-77.0,0.0,top,SW18,,,MSLPT5252AL4TR,B/0,smt
 103.0,-77.0,0.0,top,SW19,,,MSLPT5252AL4TR,БП,smt
 90.5,-52.0,0.0,top,SW2,,,MSLPT5252AL4TR,ШГ→,smt
 115.5,-77.0,0.0,top,SW20,,,MSLPT5252AL4TR,1,smt

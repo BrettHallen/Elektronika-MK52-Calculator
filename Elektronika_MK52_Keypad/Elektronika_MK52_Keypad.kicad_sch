@@ -3328,7 +3328,7 @@
 				)
 			)
 		)
-		(property "Value" "B/O"
+		(property "Value" "B/0"
 			(at 125.73 74.93 0)
 			(effects
 				(font

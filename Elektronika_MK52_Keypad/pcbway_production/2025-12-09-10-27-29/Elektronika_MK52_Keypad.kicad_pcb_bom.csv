@@ -9,7 +9,7 @@ SW14,1,6,MSLPT5252AL4TR,,,,smt,"Push button switch, normally open, two pins, 45�
 SW15,1,+,MSLPT5252AL4TR,,,,smt,"Push button switch, normally open, two pins, 45° tilted"
 SW16,1,x,MSLPT5252AL4TR,,,,smt,"Push button switch, normally open, two pins, 45° tilted"
 SW17,1,↓↑,MSLPT5252AL4TR,,,,smt,"Push button switch, normally open, two pins, 45° tilted"
-SW18,1,B/O,MSLPT5252AL4TR,,,,smt,"Push button switch, normally open, two pins, 45° tilted"
+SW18,1,B/0,MSLPT5252AL4TR,,,,smt,"Push button switch, normally open, two pins, 45° tilted"
 SW19,1,БП,MSLPT5252AL4TR,,,,smt,"Push button switch, normally open, two pins, 45° tilted"
 SW2,1,ШГ→,MSLPT5252AL4TR,,,,smt,"Push button switch, normally open, two pins, 45° tilted"
 SW20,1,1,MSLPT5252AL4TR,,,,smt,"Push button switch, normally open, two pins, 45° tilted"
