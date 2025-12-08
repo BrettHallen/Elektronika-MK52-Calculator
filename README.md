@@ -14,6 +14,10 @@ The БРП-4 and БРП-5 were produced in large numbers and are pretty easy to 
 
 They have a pretty terrible keypad - I have attempted to design a [replacement](/Elektronika_MK52_Keypad).<br>
 
+![Keypad original](/Elektronika_MK52_Keypad/Images/Elektronika_MK52_Keypad_Rows.jpg)
+
+![Keypad 3D](/Elektronika_MK52_Keypad/Images/Elektronika_MK-52_Keypad_3D.png)
+
 Thanks to Alex J. Lowry for his design files that confirmed the physical dimensions and grid for the keys.<br>
 
 ![Pretty blue MK-52](Elektronika_MK-52_Calculator.png)
