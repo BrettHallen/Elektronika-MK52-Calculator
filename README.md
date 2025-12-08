@@ -7,8 +7,10 @@ The Электроника МК-52 (МикроКалькулятор, Micro Calc
 - БРП-4: Aerospace & navigation library
 - БРП-5: Engineering & construction library
 
-РПП = Расширитель постоянной памяти (permanent memory expansion)<br>
-БРП = Блок расширения памяти (memory expansion block)<br>
+РПП = Расширитель Постоянной Памяти (permanent memory expansion)<br>
+БРП = Блок Расширения Памяти (memory expansion block)<br>
+
+The БРП-4 and БРП-5 were produced in large numbers and are pretty easy to find.  The earlier ones are quite rare.
 
 They have a pretty terrible keypad - I have attempted to design a [replacement](/Elektronika_MK52_Keypad).<br>
 
